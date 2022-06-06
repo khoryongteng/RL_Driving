@@ -27,7 +27,7 @@ The PPO algorithm from was used for the experimentation.
 ![Downsampling](https://user-images.githubusercontent.com/49972425/172168599-ae0dd381-25a0-4601-840e-23828a4759dd.PNG)
 
 ### Results: 
-Results obtained can be read on the "Reinforcement Learning on CarRacing-V0 with Different Image-Based Observation Spaces" report.
+Results obtained can be read on the ["Reinforcement Learning on CarRacing-V0 with Different Image-Based Observation Spaces"](https://github.com/khoryongteng/RL_Driving/blob/main/Reinforcement%20Learning%20on%20CarRacing-V0%20with%20Different%20Image-Based%20Observation%20Spaces.pdf) report.
 
 ### Directory Explanation:
 1. PPO_Training files - Code used for training models on different Observation Spaces
