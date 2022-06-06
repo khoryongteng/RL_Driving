@@ -24,6 +24,7 @@ Results obtained can be read on the "Reinforcement Learning on CarRacing-V0 with
 2. PPO_Evaluation files - Code used for evaluating trained models, producing CSVs containing performance measures
 3. Environment Folder - CarRacing-V0 environment and environment modification code
 4. Evaluation Folder - CSVs containing performance measures of different models
+5. Models Folder - Not added due to file size limitations
 
 ### To run the experiments yourselves:
 
